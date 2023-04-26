@@ -2,7 +2,7 @@
 
 This is a vulnerable by design repository for demonstrating Snyk Cloud. Do not deploy this in production
 
-## Deployment!
+## Deployment
 
 Add the following Github Variables:
 
